@@ -25,7 +25,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "app.fieldwatch"
+        applicationId = "com.lagompampa.fieldwatch"
         minSdk = 29
         targetSdk = 35
         versionCode = 27
